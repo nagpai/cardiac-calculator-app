@@ -54579,7 +54579,7 @@ function __disposeResources(env) {
 /******/ 			return __webpack_require__.O(result);
 /******/ 		}
 /******/ 		
-/******/ 		var chunkLoadingGlobal = self["webpackChunkwpui_sample_app"] = self["webpackChunkwpui_sample_app"] || [];
+/******/ 		var chunkLoadingGlobal = self["webpackChunkcardiac_risk_calculator_app"] = self["webpackChunkcardiac_risk_calculator_app"] || [];
 /******/ 		chunkLoadingGlobal.forEach(webpackJsonpCallback.bind(null, 0));
 /******/ 		chunkLoadingGlobal.push = webpackJsonpCallback.bind(null, chunkLoadingGlobal.push.bind(chunkLoadingGlobal));
 /******/ 	}();

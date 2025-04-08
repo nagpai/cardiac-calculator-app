@@ -1,7 +1,7 @@
 {
-  "name": "wpui-sample-app",
+  "name": "cardiac-risk-calculator-app",
   "version": "1.0.0",
-  "description": "Sample standalone app using wpui",
+  "description": "Cardiac Risk Calculator standalone app",
   "main": "index.js",
   "scripts": {
     "build": "wp-scripts build --webpack-no-externals",
@@ -19,7 +19,8 @@
     "test:e2e": "wp-scripts test-e2e",
     "test:unit": "wp-scripts test-unit-js"
   },
-  "author": "lubus",
+  "author": "Nagesh Pai",
+  "based-on": "https://github.com/lubus/wpui-sample-app",
   "license": "ISC",
   "dependencies": {
     "@wordpress/components": "^25.10.0",
